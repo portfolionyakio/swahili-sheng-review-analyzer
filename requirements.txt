@@ -1,0 +1,7 @@
+ text
+torch
+transformers
+streamlit
+pandas
+scikit-learn
+emoji
