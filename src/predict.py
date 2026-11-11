@@ -3,7 +3,7 @@ from transformers import pipeline
 
 from src.preprocess import clean_review
 
-SENTIMENT_MODEL = "MoritzLaurer/mDeBERTa-v3-base-xnli-m multilingual-nli-2mil7".replace(" ", "")
+SENTIMENT_MODEL = "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
 
 
 @st.cache_resource
